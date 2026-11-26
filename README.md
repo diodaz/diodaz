@@ -8,3 +8,4 @@
 <a href="https://diodaz.atabook.org" target="_blank">
   <img src="https://media.discordapp.net/attachments/1405058890072330251/1575399900084969472/Untitled367_20261125223348.png?ex=6b0924fd&is=6b07d37d&hm=fe33aa0d230f1738242ac7655f00109efc79ba48397b323dbec36f51e80283e8&format=webp&quality=lossless&width=768&height=768" width="200">
 </a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gtwh7i6x5d3h2l42sgyadgkdre&cover_image=true&theme=default&show_offline=true&background_color=5e6a6a&interchange=false&profanity=false&hide_remaster=false&bar_color=a4afb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
